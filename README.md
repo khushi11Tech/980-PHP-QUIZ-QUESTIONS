@@ -47,4 +47,4 @@ Project Files
 - style.css – Contains the design and styling of the quiz.
 
  Output Screenshots
-Screenshots of the working PHP Quiz System are added here.
+ of the working PHP Quiz System are added here.
