@@ -39,7 +39,7 @@ questions and displays the score, percentage and performance.
 2. Start Apache from XAMPP Control Panel.
 3. Place the project folder inside the htdocs folder.
 4. Open a web browser.
-5. Enter http:/php5th/index.php.
+5. Enter http:localhost/php5th/index.php.
 6. Answer all the questions and click Submit Quiz.
 
 Project Files
